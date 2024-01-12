@@ -5,7 +5,6 @@
 
 /* HEADER */
 
-
 .logo {
     width: 200px;
 } 
@@ -36,6 +35,7 @@
     
 }
 
+/* MAIN INICIO */
 .quienesSomos {
     padding: 16px;
     text-transform: uppercase;
@@ -47,7 +47,7 @@
 }
 
 .textoInicio {
-
+    padding: 2%;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
@@ -59,70 +59,19 @@
     font-size: 20px;
 }
 
-/* FOOTER */
 
-.footerms {
-    background-color:#ebf3e3 ;
-    
-    
+
+
+/* PRODUCTOS */
+
+.textoProductos {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 
-/* productos */
 
-.contenedorProductos {
-    width: 50%;
-    margin: 20px 450px;
-    border: 4px solid #333;
-    border-radius: 10px;
-    
-}
-
-.imgProductos {
-    display: block;
-    width: 100%;
-    height: 700px;
-}
-
-.contenedorProductos, descripcion {
-    display: block;
-    bottom: 40px;
-}
-
-.contenedorProductos p {
-
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px;
-    font-weight: bold;
-    font-size: 18px;
-    text-transform: uppercase;
-}
-
-/* cCLIENTES(INDEX)*/
-
-.contenedorClientes {
-    display: inline-block;
-    
-    
-    
-}
-
-.imgContenedor{
-    width: 465px;
-    margin: 5px 70px;
-    border-radius: 10px;
-}
-
-/* LOGO DE WHATSAPP */
-
-.logoWhats {
-    position: fixed;
-    right: 20px;
-    bottom: 20px;
-    width: 100px;
-}
 /* IFRAME SUCURSALES*/
 
 .sucursales {
@@ -137,7 +86,7 @@ iframe {
     margin:auto; 
 }
 
-/* formulario */
+/* FORMULARIO */
 
 form {
     margin-top: 20px ;
@@ -174,36 +123,43 @@ textarea {
 
 /* POLITICA DE CAMBIO */
 
-.cambios {
-    text-align: start;
-    text-decoration: none;
-}
-
-.cambios2 {
-    text-align: right;
-}
-
-.parrafoP {
-    text-align: right ;
-}
-
 .logoEquis{
     text-align: center;
+    margin-bottom: 30px;
+    margin-top: 0px;
 }
 
 .equisPolitica{
     width: 120px;
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 .logoEquis2{
     text-align: center;
+    margin-top: 0px;
 }
 .signoExclamacion {
     width: 400px;
-    margin-top: 50px;
+    margin-top: 0px;
 }
 
-/* RESPONSIVE */
+
+/* LOGO DE WHATSAPP */
+
+.logoWhats {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 60px;
+}
+
+/* FOOTER */
+
+.footerms {
+    background-color:#ebf3e3 ;
+    
+    
+}
+
 
 
