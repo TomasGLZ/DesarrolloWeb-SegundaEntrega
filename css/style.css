@@ -72,7 +72,7 @@
 
 
 
-/* IFRAME SUCURSALES*/
+/* ENVIO IFRAME SUCURSALES*/
 
 .sucursales {
     text-decoration: none;
@@ -85,6 +85,32 @@ iframe {
     display: block;
     margin:auto; 
 }
+
+
+
+/* POLITICA DE CAMBIO */
+
+.logoEquis{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
+
+.equisPolitica{
+    width: 120px;
+    margin-top: 10px;
+}
+
+.logoEquis2{
+    text-align: center;
+    margin-top: 0px;
+}
+.signoExclamacion {
+    width: 400px;
+    margin-top: 0px;
+}
+
+
 
 /* FORMULARIO */
 
@@ -121,29 +147,6 @@ textarea {
     margin-top: 10px;
 }
 
-/* POLITICA DE CAMBIO */
-
-.logoEquis{
-    text-align: center;
-    margin-bottom: 30px;
-    margin-top: 0px;
-}
-
-.equisPolitica{
-    width: 120px;
-    margin-top: 10px;
-}
-
-.logoEquis2{
-    text-align: center;
-    margin-top: 0px;
-}
-.signoExclamacion {
-    width: 400px;
-    margin-top: 0px;
-}
-
-
 /* LOGO DE WHATSAPP */
 
 .logoWhats {
@@ -153,12 +156,11 @@ textarea {
     width: 60px;
 }
 
+
 /* FOOTER */
 
 .footerms {
     background-color:#ebf3e3 ;
-    
-    
 }
 
 
