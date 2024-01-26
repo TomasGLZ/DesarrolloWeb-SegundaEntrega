@@ -1,0 +1,37 @@
+body {
+    overflow-x: hidden;
+}
+
+/* PRODUCTOS */
+
+.textoProductos {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* ENVIO IFRAME SUCURSALES*/
+  
+  .sucursales {
+    text-decoration: none;
+  }
+  
+  iframe {
+    display: block;
+    margin: auto;
+  }
+  
+  /* LOGO DE WHATSAPP */
+  
+  .logoWhats {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 60px;
+  }
+  
+  /* FOOTER */
+  
+  .footerms {
+    background-color: $color-back;
+  }
+  
